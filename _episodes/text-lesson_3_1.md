@@ -1,7 +1,7 @@
 ---
 title: How to share?
-teaching: 30
-exercises: 15
+teaching: 20
+exercises: 40
 duration: null
 summary: A guided walkthrough of preparing a manuscript for upload to a preprint server.
 questions:
