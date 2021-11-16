@@ -1,7 +1,7 @@
 ---
 title: Policies and Permissions
-teaching: 15
-exercises: null
+teaching: 20
+exercises: 10
 duration: null
 summary: Understanding journal and funder policies on preprints.
 questions:
